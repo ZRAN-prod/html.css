@@ -1,0 +1,62 @@
+.lien{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 20%;
+    margin-right: 7%;
+}
+.lien:hover{
+text-decoration: yellowgreen;
+}
+.nav-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 7%;
+}
+.BIENVENU{
+text-align: center;
+text-decoration-color: rgb(211, 75, 75);
+margin-top: 15%;
+background-color: yellowgreen;
+}
+.BIENVENU h1{
+    color: red;
+}
+.BIENVENU b{
+    color: black;
+    text-transform: capitalize;
+}
+.BIENVENU nav{
+list-style: none;
+color: violet;
+}
+.photo-BIOGRAPHIE{
+margin-left: 3%;
+}
+.photo-BIOGRAPHIE h1{
+    color: red;
+}
+.photo-BIOGRAPHIE h2{
+    color: red;
+}
+.photo-BIOGRAPHIE p{
+    font-size: 120%;
+}
+.B1{
+    color: blueviolet;
+    padding-left: 20%;
+}
+form{
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    text-align: center;
+    margin-top: 3%;
+    text-decoration: overline;
+}
+body{
+    background-color: rgb(208, 221, 181);
+}
